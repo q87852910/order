@@ -42,7 +42,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>主菜单222</title>
+		<title>主菜单777</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<!-- basic styles -->
 		<%@ include file="common/commonStyle.jsp"%>
